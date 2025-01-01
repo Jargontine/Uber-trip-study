@@ -21,8 +21,8 @@ pickup times, busiest days, and fare prediction.
 
 Dataset:     
 The dataset used for this project is typically Uber's trip data, which includes details such
-as:
-● Date/Time: When the trip started.
-● Lat: Latitude of the pickup.
-● Lon: Longitude of the pickup.
-● Base: TLC base company code affiliated with the Uber pickup.
+as:                          
+● Date/Time: When the trip started.             
+● Lat: Latitude of the pickup.                     
+● Lon: Longitude of the pickup.                          
+● Base: TLC base company code affiliated with the Uber pickup.                    
